@@ -29,9 +29,7 @@ This project is designed to demonstrate the use of the Model-View-Controller (MV
 - `Views/Customer/` — Contains the Razor Views for each CRUD operation  
 - `App_Data/` — Local database (if using LocalDB)
 
-## 📷 Screenshots
 
-_Add screenshots here if available — e.g., list view, create/edit form, etc._
 
 ##  Getting Started
 
